@@ -53,17 +53,19 @@ To explore, clean, and analyze a dataset by:
 * Presented correlations and comparative trends using heatmaps and grouped charts.
 
 
-## 📈 Outcome
+## Outcome
 
 The EDA revealed:
 
 * Data quality issues requiring preprocessing
 * Key variables that influence others
-* Foundational insights for further predictive modeling or hypothesis testing
+* Foundational insights for further predictive modelling or hypothesis testing
 
-## 🧠 Next Steps
+## Next Steps
 
 * Perform feature engineering to prepare for machine learning
 * Run statistical tests or build predictive models
 * Visualize findings in a dashboard for stakeholders
+
+Check out the notebook [`here`](https://github.com/Top-BenBen/Explorative-Data-Analysis---Sales-/blob/master/EDA_Assessment_Activity.ipynb)
 
