@@ -1,11 +1,11 @@
 
 
-# 📊 Exploratory Data Analysis (EDA) – Assessment Activity
+# 📊 Exploratory Data Analysis (EDA) 
 
 This project demonstrates the application of **Exploratory Data Analysis** techniques on a structured dataset using Python. The goal is to assess data quality, uncover patterns, and derive initial insights that can guide further modeling or decision-making.
 
 
-## 🔍 Objective
+##  Objective
 
 To explore, clean, and analyze a dataset by:
 
@@ -16,7 +16,7 @@ To explore, clean, and analyze a dataset by:
 * Drawing insights from both visual and statistical observations
 
 
-## 🛠️ Tools Used
+## Tools Used
 
 * **pandas** – for data loading and manipulation
 * **numpy** – for numerical operations
@@ -24,7 +24,7 @@ To explore, clean, and analyze a dataset by:
 * **Jupyter Notebook** – for interactive coding
 
 
-## 📂 Key Steps Performed
+## Key Steps Performed
 
 ### 1. **Data Loading & Inspection**
 
